@@ -1,30 +1,46 @@
-# 💫 About Me:
-# 💫 About Me<br><br>🔭 I’m currently working as a freelancer<br><br>🤝 I’m looking for help with learning tensorflow, AI<br><br>🌱 I’m currently learning AI<br>💬 Ask me about Javascript, Python and all about backend and Telegram bot development<br><br>⚡ Fun fact: I love earning by complete projects codes.
+# Hi there, I'm Komiljonov! 👋
 
+Welcome to my GitHub profile!
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/komiljonov_dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/komiljonovdev) 
+## About Me
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=komiljonov&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=komiljonov&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=komiljonov&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I am a passionate software developer with a strong interest in [your areas of interest, e.g., web development, machine learning, etc.]. I love exploring new technologies and continuously improving my skills.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=komiljonov&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+- 🔭 I’m currently working on [your current project or area of focus].
+- 🌱 I’m currently learning [technologies or skills you're currently learning].
+- 👯 I’m looking to collaborate on [projects or areas you want to collaborate on].
+- 💬 Ask me about [topics you are knowledgeable in and willing to help with].
+- 📫 How to reach me: [your contact information, e.g., email, LinkedIn].
+- ⚡ Fun fact: [a fun fact about yourself].
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## My Skills
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=komiljonov&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- Programming Languages: [list of programming languages you are proficient in]
+- Frameworks & Libraries: [list of frameworks and libraries you use]
+- Tools & Platforms: [list of tools and platforms you are familiar with]
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+## GitHub Stats
 
----
-[![](https://visitcount.itsvg.in/api?id=komiljonov&icon=0&color=0)](https://visitcount.itsvg.in)
+![Komiljonov's GitHub stats](https://github-readme-stats.vercel.app/api?username=komiljonov&show_icons=true&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=komiljonov&layout=compact&theme=radical)
+
+## Featured Projects
+
+Here are a few projects I've been working on recently:
+
+- [Project 1](https://github.com/komiljonov/project1): Brief description of Project 1.
+- [Project 2](https://github.com/komiljonov/project2): Brief description of Project 2.
+- [Project 3](https://github.com/komiljonov/project3): Brief description of Project 3.
+
+Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [Twitter](https://twitter.com/your-twitter-profile)
+- [Personal Website](https://your-personal-website.com)
+
+Thank you for visiting my profile! 😊
